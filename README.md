@@ -2,7 +2,7 @@
 
 ## General info
 
-The *Virtual World* is a project created for learning purposes by the student of Gdansk University of Technology. It was required for Object Oriented Programming laboratory classes. The application (names, logs, etc.) runs in Polish language.
+The *Virtual World* is a project created for learning purposes by the student of Gdansk University of Technology. It was required for Object Oriented Programming laboratory classes. The application (names, logs, gameplay, etc.), as well as comments and names inside the source code are written in Polish language.
 
 This application simulates virtual world in a very simple way (using *Tkinter* library for graphics) and it uses a turn-based approach. It implements fighting and multiplication mechanisms. 
 
